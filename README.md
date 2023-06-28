@@ -13,4 +13,4 @@ Skills: AWS, VM, Ansible, bash, html, CSS, python, Linux
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kbrieva&show_icons=true)  
 
-![Profile views](https://gpvc.arturio.dev/kbrieva)  
+
