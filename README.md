@@ -7,7 +7,7 @@ Skills: HTML, CSS and currently working on javascript. Refreshing and adding kno
 
 You may check my website below
 
-https://www.kennedybrieva.site
+<a href="https://www.kennedybrieva.site" target="_blank">Kennedy Brieva</a>
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Git and Github 
