@@ -7,7 +7,7 @@ Skills: basic HTML, CSS, javascript and python. Refreshing and adding knowledge 
 
 You may check my website below
 
-<a href="https://kennedy-brieva-cloud-resume-github-io.pages.dev/" target="_blank">Kennedy Brieva</a>
+<a href="https://kennedybrieva.com/" target="_blank">Kennedy Brieva</a>
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Git and Github 
