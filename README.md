@@ -7,17 +7,12 @@ You may check my website below
 
 <p><a href="https://projex-cloud-resume.vercel.app/" target="_blank">Kennedy Brieva</a></p>
 <br>
-<p><a href="https://dev421419.service-now.com/tetris_game.do" target="_blank">ServiceNow Tetris Game</a></p>
+<p><span>Register and use gmail email account</span><a href="https://dev421419.service-now.com/user_registration" target="_blank">Registration</a></p>
 <br>
 <p><a href="https://dev421419.service-now.com/login.do" target="_blank">Login to my ServiceNow</a></p><p>Login and Play the Tetris to save the score</p>
 <br>
-<p>Use the below account to login</p>
-<p>User: player_one</p>
-<p>Pass: Be@tthemastertetr1s</p>
+<p><a href="https://dev421419.service-now.com/tetris_game.do" target="_blank">ServiceNow Tetris Game</a></p>
 <br>
-<br>
-
-
 <br>
 
 
