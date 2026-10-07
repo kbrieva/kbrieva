@@ -7,8 +7,9 @@ Skills: basic HTML, CSS, javascript and python. Refreshing and adding knowledge 
 
 You may check my website below
 
-<a href="https://projex-cloud-resume.vercel.app/" target="_blank">Kennedy Brieva</a>
-<a href="https://dev421419.service-now.com/tetris_game.do" target="_blank">ServiceNow Tetris Game</a>
+<p><a href="https://projex-cloud-resume.vercel.app/" target="_blank">Kennedy Brieva</a></p>
+
+<p><a href="https://dev421419.service-now.com/tetris_game.do" target="_blank">ServiceNow Tetris Game</a></p>
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m still learning AI
