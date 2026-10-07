@@ -1,23 +1,38 @@
-### Hi there 👋, my name is Kennedy  
+# 👋 Hi, I'm Kennedy!
 
-Skills: basic HTML, CSS, javascript and python. Refreshing and adding knowledge in the cloud, creating project like cloud resume, building app using AI.
-Work: currently working as a ServiceNow developer.
+I'm a **ServiceNow Developer** who enjoys building things, learning new technologies, and turning ideas into working projects.
 
-You may check my website below
+My background includes **web development, Python, cloud technologies, ServiceNow, APIs, and AI-assisted development**. I'm currently focused on improving my cloud and development skills by building hands-on projects.
 
-<p><a href="https://projex-cloud-resume.vercel.app/" target="_blank">Kennedy Brieva</a></p>
-<br>
-<p><span>Register and use gmail email account</span><a href="https://dev421419.service-now.com/user_registration" target="_blank">Registration</a></p>
-<br>
-<p><a href="https://dev421419.service-now.com/login.do" target="_blank">Login to my ServiceNow</a></p><p>Login and Play the Tetris to save the score</p>
-<br>
-<p><a href="https://dev421419.service-now.com/tetris_game.do" target="_blank">ServiceNow Tetris Game</a></p>
-<br>
-<br>
+### 🔧 What I'm Working With
 
+* ServiceNow Development & Administration
+* JavaScript
+* HTML & CSS
+* Python
+* REST APIs
+* Cloud Technologies
+* Git & GitHub
+* AI-powered development
 
- 
+### ☁️ Cloud Resume Project
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kbrieva&show_icons=true)  
+I've been building my own cloud-focused projects as a way to strengthen my knowledge and gain practical experience.
 
+🌐 <a href="https://projex-cloud-resume.vercel.app/" target="_blank">Check out my website →</a>
 
+### 🎮 Something Fun
+
+I also built a **Tetris game in ServiceNow**!
+
+You can register, log in with Google, play the game, and save your score.
+
+📝 <a href="https://dev421419.service-now.com/user_registration" target="_blank">Register</a>
+
+🔐 <a href="https://dev421419.service-now.com/login.do" target="_blank">Login</a>
+
+🎮 <a href="https://dev421419.service-now.com/tetris_game.do" target="_blank">Play Tetris</a>
+
+> **Tip:** Use a Gmail account when registering.
+
+Thanks for stopping by! 🚀
