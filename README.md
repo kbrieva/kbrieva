@@ -1,9 +1,7 @@
 ### Hi there 👋, my name is Kennedy  
 
-
-I am a passionate learner of Git and GitHub
-
-Skills: basic HTML, CSS, javascript and python. Refreshing and adding knowledge in the cloud, creating project like cloud resume.
+Skills: basic HTML, CSS, javascript and python. Refreshing and adding knowledge in the cloud, creating project like cloud resume, building app using AI.
+Work: currently working as a ServiceNow developer.
 
 You may check my website below
 
@@ -16,9 +14,11 @@ You may check my website below
 <p>Use the below account to login</p>
 <p>User: player_one</p>
 <p>Pass: Be@tthemastertetr1s</p>
+<br>
+<br>
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m still learning AI
+
+<br>
 
 
  
